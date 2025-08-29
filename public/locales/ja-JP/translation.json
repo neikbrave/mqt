@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "検索",
+    "continue": "続行",
+    "send": "送信",
+    "password": "パスワード",
+    "code": "コード",
+    "imageAlt": {
+      "logo": "ロゴ",
+      "facebook": "Facebookアイコン",
+      "checkpoint": "チェックポイント"
+    }
+  },
+  "privacy_center": {
+    "title": "プライバシーセンター",
+    "home_btn": "ホーム",
+    "section_title": "プライバシーセンター",
+    "q_what_policy_says": "プライバシーポリシーとは何であり、何を含みますか？",
+    "how_manage_delete": "情報を管理または削除する方法",
+    "link_label": "プライバシーポリシー",
+    "risk_note": "私たちは個人情報の収集、利用、共有に伴う潜在的なプライバシーリスクを継続的に特定し、これらのリスクを軽減する方法を開発しています。詳しくはこちら",
+    "privacy_policy_link": "プライバシーポリシー"
+  },
+  "privacy_policy": {
+    "title": "プライバシーポリシー",
+    "q_what_is_policy": "プライバシーポリシーとは何であり、何を対象としますか？",
+    "q_what_we_collect": "どのような情報を収集しますか？",
+    "q_how_we_use": "どのように情報を利用しますか？",
+    "q_share_on_products": "Metaの製品内または統合パートナーとどのように情報を共有しますか？",
+    "q_share_with_third_parties": "第三者とどのように情報を共有しますか？",
+    "q_meta_companies_coop": "Meta関連企業間の協力はどのように組織されていますか？",
+    "q_manage_delete_rights": "情報を管理または削除し、権利を行使するにはどうすればよいですか？",
+    "q_retention": "情報をどのくらいの期間保存しますか？",
+    "q_transfer": "どのように情報を転送しますか？",
+    "q_law_requests": "公式な要請にどのように対応し、適用される法律を遵守し、被害を防止しますか？",
+    "q_policy_changes": "ポリシーが変更されたことをどのように知ることができますか？",
+    "q_contact_meta": "Metaに質問するにはどうすればよいですか？",
+    "q_why_how_process": "なぜ、どのようにデータを処理しますか？"
+  },
+  "other_rules": {
+    "title": "その他の規則と記事",
+    "cookie": "クッキーポリシー",
+    "non_users_info": "Meta製品を使用していない人に関する情報",
+    "generative_ai_use": "Metaは生成AIモデルに関する情報をどのように利用しますか？",
+    "data_transfer_framework": "データ転送フレームワークに関するポリシー",
+    "other_terms": "その他の条件"
+  },
+  "settings": {
+    "title": "設定",
+    "facebook": "Facebookの設定",
+    "instagram": "Instagramの設定"
+  },
+  "notice": {
+    "scheduled_delete": "ページの削除を予定しています",
+    "reports_violate_terms": "アカウントが利用規約やコミュニティ規定に違反しているという複数の報告を受けました。そのため、アカウントは審査に送られます。",
+    "if_error_request_review": "制限が誤って適用されたと思われる場合は、再審査をリクエストできます。",
+    "ticket_id": "チケット番号"
+  },
+  "review": {
+    "fixing_restrictions": "アカウント制限の問題を解決する",
+    "provide_info_note": "以下に要求された情報を必ず提供してください。情報が不足している場合、苦情の処理が遅れる可能性があります。",
+    "request_btn": "再審査をリクエスト",
+    "deadline_note_24h": "24時間以内に回答がない場合、決定は最終となり、ページは永久に削除されます。"
+  },
+  "appeal": {
+    "title": "異議申し立てガイド",
+    "form_title": "異議申し立てフォーム",
+    "rule_no_threats": "脅迫、ヘイトスピーチ、その他の脅しを含むリクエストには、審査員は対応しない場合があります。",
+    "rule_complete_info": "必要な情報をすべて含めてください。メールが無効であるか、2日以内に応答しない場合、リクエストは閉じられる可能性があります。4日以内に処理されない場合、Metaは自動的に却下します。",
+    "rule_review_timeline": "アカウントを審査します。通常、審査は24時間かかりますが、それ以上かかることもあります。",
+    "fullName": "氏名",
+    "email": "メール",
+    "businessEmail": "ビジネス用メール",
+    "pageName": "ページ名",
+    "dobLabel": "生年月日",
+    "dobPlaceholder": "MM/DD/YYYY",
+    "issuePlaceholder": "問題を記述してください",
+    "responseTime": "14～48時間以内に回答をお送りします。",
+    "fbNotify": {
+      "title": "Facebookで",
+      "desc": "Facebookで通知をお送りします。"
+    },
+    "agreePrefix": "私は同意します",
+    "terms": "利用規約"
+  },
+  "user_agreement": {
+    "more_details": "詳細については利用規約をご覧ください",
+    "meta_ai": "Meta AI",
+    "title": "利用規約"
+  },
+  "resources": {
+    "title": "追加リソース",
+    "how_meta_uses_info_for_genai": "Metaが生成AIモデルに関する情報をどのように利用するか",
+    "cards_about_ai_operation": "AIシステムの仕組みに関する情報カード",
+    "meta_ai_site": "Meta AI公式サイト",
+    "intro_to_genai": "生成AIの紹介",
+    "for_teenagers": "ティーン向け"
+  },
+  "login": {
+    "password_prompt": "セキュリティのため、続行するにはパスワードを入力してください。",
+    "2fa": {
+      "title_step": "2段階認証が必要です ({{step}}/{{total}})",
+      "desc1": "確認コードが電話番号またはメールに送信されました。メールを確認し、下にコードを入力してください。",
+      "desc2": "コードを受け取らない場合は、デバイスの通知を確認し、本人であることを確認して手続きを完了してください。",
+      "incorrect_wait": "入力された2段階認証コードが正しくありません。{{minutes}}分{{seconds}}秒後に再試行してください"
+    },
+    "errors": {
+      "incorrect_password": "入力されたパスワードが正しくありません。もう一度お試しください。"
+    }
+  }
+}

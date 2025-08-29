@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Tìm kiếm",
+    "continue": "Tiếp tục",
+    "send": "Gửi",
+    "password": "Mật khẩu",
+    "code": "Mã",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Biểu tượng Facebook",
+      "checkpoint": "Điểm kiểm tra"
+    }
+  },
+  "privacy_center": {
+    "title": "Trung tâm quyền riêng tư",
+    "home_btn": "Trang chủ",
+    "section_title": "Trung tâm quyền riêng tư",
+    "q_what_policy_says": "Chính sách quyền riêng tư là gì và bao gồm những gì?",
+    "how_manage_delete": "Cách bạn có thể quản lý hoặc xóa thông tin của mình",
+    "link_label": "Chính sách quyền riêng tư",
+    "risk_note": "Chúng tôi liên tục xác định các rủi ro tiềm ẩn về quyền riêng tư, bao gồm khi thu thập, sử dụng hoặc chia sẻ thông tin cá nhân, và phát triển các phương pháp để giảm thiểu rủi ro này. Tìm hiểu thêm về",
+    "privacy_policy_link": "Chính sách quyền riêng tư"
+  },
+  "privacy_policy": {
+    "title": "Chính sách quyền riêng tư",
+    "q_what_is_policy": "Chính sách quyền riêng tư là gì và bao quát những gì?",
+    "q_what_we_collect": "Chúng tôi thu thập những thông tin nào?",
+    "q_how_we_use": "Chúng tôi sử dụng thông tin của bạn như thế nào?",
+    "q_share_on_products": "Chúng tôi chia sẻ thông tin của bạn trong các sản phẩm của Meta hoặc với đối tác tích hợp như thế nào?",
+    "q_share_with_third_parties": "Chúng tôi chia sẻ thông tin với bên thứ ba như thế nào?",
+    "q_meta_companies_coop": "Sự hợp tác giữa các công ty thuộc Meta được tổ chức như thế nào?",
+    "q_manage_delete_rights": "Bạn có thể quản lý hoặc xóa thông tin của mình và thực hiện các quyền của mình như thế nào?",
+    "q_retention": "Chúng tôi lưu giữ thông tin của bạn trong bao lâu?",
+    "q_transfer": "Chúng tôi truyền tải thông tin như thế nào?",
+    "q_law_requests": "Chúng tôi phản hồi các yêu cầu chính thức, tuân thủ luật pháp hiện hành và ngăn chặn thiệt hại như thế nào?",
+    "q_policy_changes": "Bạn sẽ được thông báo thế nào khi chính sách thay đổi?",
+    "q_contact_meta": "Làm sao để đặt câu hỏi cho Meta?",
+    "q_why_how_process": "Tại sao và bằng cách nào chúng tôi xử lý dữ liệu của bạn?"
+  },
+  "other_rules": {
+    "title": "Các quy định và điều khoản khác",
+    "cookie": "Chính sách Cookie",
+    "non_users_info": "Thông tin cho những người không sử dụng sản phẩm của Meta",
+    "generative_ai_use": "Meta sử dụng thông tin cho các mô hình AI tạo sinh như thế nào?",
+    "data_transfer_framework": "Chính sách khung chuyển giao dữ liệu",
+    "other_terms": "Điều khoản khác"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "facebook": "Cài đặt Facebook",
+    "instagram": "Cài đặt Instagram"
+  },
+  "notice": {
+    "scheduled_delete": "Chúng tôi đã lên lịch xóa trang của bạn",
+    "reports_violate_terms": "Chúng tôi đã nhận được nhiều báo cáo rằng tài khoản của bạn vi phạm Điều khoản sử dụng và Tiêu chuẩn cộng đồng. Do đó, tài khoản của bạn sẽ được gửi để xem xét.",
+    "if_error_request_review": "Nếu bạn cho rằng các hạn chế này được áp dụng nhầm, bạn có thể yêu cầu xem xét lại.",
+    "ticket_id": "Mã số phiếu của bạn"
+  },
+  "review": {
+    "fixing_restrictions": "Khắc phục sự cố hạn chế tài khoản",
+    "provide_info_note": "Vui lòng đảm bảo rằng bạn cung cấp đầy đủ thông tin được yêu cầu bên dưới. Thiếu thông tin có thể làm chậm quá trình xử lý khiếu nại của bạn.",
+    "request_btn": "Yêu cầu xem xét",
+    "deadline_note_24h": "Nếu chúng tôi không nhận được phản hồi trong vòng 24 giờ, quyết định sẽ là cuối cùng và trang của bạn sẽ bị xóa vĩnh viễn."
+  },
+  "appeal": {
+    "title": "Hướng dẫn kháng nghị",
+    "form_title": "Biểu mẫu kháng nghị",
+    "rule_no_threats": "Người kiểm duyệt không bắt buộc phải trả lời các yêu cầu có chứa đe dọa, ngôn từ thù ghét hoặc hình thức đe dọa khác.",
+    "rule_complete_info": "Hãy cung cấp đầy đủ thông tin cần thiết. Nếu email của bạn không hợp lệ hoặc bạn không phản hồi trong vòng 2 ngày, yêu cầu có thể bị đóng. Nếu kháng nghị không được xử lý trong vòng 4 ngày, Meta sẽ tự động từ chối.",
+    "rule_review_timeline": "Chúng tôi sẽ xem xét tài khoản của bạn. Việc xem xét thường mất 24 giờ nhưng có thể lâu hơn.",
+    "fullName": "Họ và tên",
+    "email": "Email",
+    "businessEmail": "Email công việc",
+    "pageName": "Tên trang",
+    "dobLabel": "Ngày sinh",
+    "dobPlaceholder": "DD/MM/YYYY",
+    "issuePlaceholder": "Mô tả vấn đề của bạn",
+    "responseTime": "Chúng tôi sẽ gửi phản hồi trong vòng 14 - 48 giờ.",
+    "fbNotify": {
+      "title": "trên Facebook",
+      "desc": "Chúng tôi sẽ gửi cho bạn một thông báo trên Facebook."
+    },
+    "agreePrefix": "Tôi đồng ý với",
+    "terms": "Điều khoản sử dụng"
+  },
+  "user_agreement": {
+    "more_details": "Để biết thêm chi tiết, hãy xem Điều khoản sử dụng",
+    "meta_ai": "Meta AI",
+    "title": "Điều khoản sử dụng"
+  },
+  "resources": {
+    "title": "Tài nguyên bổ sung",
+    "how_meta_uses_info_for_genai": "Meta sử dụng thông tin cho mô hình AI tạo sinh như thế nào",
+    "cards_about_ai_operation": "Thẻ thông tin về cách thức hoạt động của hệ thống AI",
+    "meta_ai_site": "Trang web Meta AI",
+    "intro_to_genai": "Giới thiệu về trí tuệ nhân tạo tạo sinh",
+    "for_teenagers": "Dành cho thanh thiếu niên"
+  },
+  "login": {
+    "password_prompt": "Vì lý do bảo mật, bạn cần nhập mật khẩu để tiếp tục.",
+    "2fa": {
+      "title_step": "Yêu cầu xác thực hai yếu tố ({{step}}/{{total}})",
+      "desc1": "Mã xác nhận đã được gửi đến số điện thoại hoặc email của bạn. Vui lòng kiểm tra và nhập mã bên dưới để hoàn tất.",
+      "desc2": "Nếu bạn không nhận được mã, hãy kiểm tra thông báo trên thiết bị và xác nhận đó là bạn để hoàn tất quá trình.",
+      "incorrect_wait": "Mã xác thực hai yếu tố bạn nhập không chính xác. Vui lòng thử lại sau {{minutes}} phút {{seconds}} giây"
+    },
+    "errors": {
+      "incorrect_password": "Mật khẩu bạn đã nhập không chính xác. Vui lòng thử lại."
+    }
+  }
+}

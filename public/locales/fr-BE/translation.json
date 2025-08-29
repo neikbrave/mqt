@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Rechercher",
+    "continue": "Continuer",
+    "send": "Envoyer",
+    "password": "Mot de passe",
+    "code": "Code",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Icône Facebook",
+      "checkpoint": "Vérification"
+    }
+  },
+  "privacy_center": {
+    "title": "Centre de confidentialité",
+    "home_btn": "Page d’accueil",
+    "section_title": "Centre de confidentialité",
+    "q_what_policy_says": "Qu’est-ce que la Politique de confidentialité et que contient-elle ?",
+    "how_manage_delete": "Comment gérer ou supprimer vos informations",
+    "link_label": "Politique de confidentialité",
+    "risk_note": "Nous identifions en permanence les risques potentiels liés à la confidentialité, y compris lors de la collecte, de l’utilisation ou du partage de données personnelles, et développons des méthodes pour réduire ces risques. En savoir plus sur",
+    "privacy_policy_link": "Politique de confidentialité"
+  },
+  "privacy_policy": {
+    "title": "Politique de confidentialité",
+    "q_what_is_policy": "Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?",
+    "q_what_we_collect": "Quelles informations collectons-nous ?",
+    "q_how_we_use": "Comment utilisons-nous vos informations ?",
+    "q_share_on_products": "Comment partageons-nous vos informations dans les produits Meta ou avec des partenaires intégrés ?",
+    "q_share_with_third_parties": "Comment partageons-nous des informations avec des tiers ?",
+    "q_meta_companies_coop": "Comment est organisée la coopération entre les sociétés de Meta ?",
+    "q_manage_delete_rights": "Comment gérer ou supprimer vos informations et exercer vos droits ?",
+    "q_retention": "Combien de temps conservons-nous vos informations ?",
+    "q_transfer": "Comment transférons-nous des informations ?",
+    "q_law_requests": "Comment répondons-nous aux demandes officielles, respectons-nous la législation applicable et prévenons-nous les abus ?",
+    "q_policy_changes": "Comment serez-vous informé en cas de modification de la politique ?",
+    "q_contact_meta": "Comment poser vos questions à Meta ?",
+    "q_why_how_process": "Pourquoi et comment traitons-nous vos données ?"
+  },
+  "other_rules": {
+    "title": "Autres règles et articles",
+    "cookie": "Politique en matière de cookies",
+    "non_users_info": "Informations concernant les personnes qui n’utilisent pas les produits Meta",
+    "generative_ai_use": "Comment Meta utilise les informations pour les modèles d’IA générative ?",
+    "data_transfer_framework": "Politique relative au cadre de transfert de données",
+    "other_terms": "Autres conditions"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "facebook": "Paramètres Facebook",
+    "instagram": "Paramètres Instagram"
+  },
+  "notice": {
+    "scheduled_delete": "Nous avons planifié la suppression de votre page",
+    "reports_violate_terms": "Nous avons reçu plusieurs signalements indiquant que votre compte enfreint nos conditions d’utilisation et nos standards communautaires. Par conséquent, votre compte sera soumis à une vérification.",
+    "if_error_request_review": "Si vous estimez que les restrictions ont été appliquées par erreur, vous pouvez demander un réexamen.",
+    "ticket_id": "Votre numéro de ticket"
+  },
+  "review": {
+    "fixing_restrictions": "Résolution des problèmes liés aux restrictions de compte",
+    "provide_info_note": "Veuillez vous assurer de fournir les informations demandées ci-dessous. L’absence d’informations peut retarder le traitement de votre réclamation.",
+    "request_btn": "Demander un réexamen",
+    "deadline_note_24h": "Si nous ne recevons pas de réponse dans les 24 heures, la décision sera définitive et votre page sera définitivement supprimée."
+  },
+  "appeal": {
+    "title": "Guide d’appel",
+    "form_title": "Formulaire d’appel",
+    "rule_no_threats": "Les vérificateurs ne sont pas tenus de répondre aux demandes contenant des menaces, des propos haineux ou d’autres formes de harcèlement.",
+    "rule_complete_info": "Incluez toutes les informations nécessaires. Si votre e-mail est invalide ou si vous ne répondez pas dans un délai de 2 jours, la demande peut être clôturée. Si l’appel n’est pas traité dans un délai de 4 jours, Meta le rejettera automatiquement.",
+    "rule_review_timeline": "Nous examinerons votre compte. La vérification prend généralement 24 heures, mais peut durer plus longtemps.",
+    "fullName": "Nom complet",
+    "email": "Adresse e-mail",
+    "businessEmail": "E-mail professionnel",
+    "pageName": "Nom de la page",
+    "dobLabel": "Date de naissance",
+    "dobPlaceholder": "JJ/MM/AAAA",
+    "issuePlaceholder": "Décrivez votre problème",
+    "responseTime": "Notre réponse sera envoyée dans un délai de 14 à 48 heures.",
+    "fbNotify": {
+      "title": "sur Facebook",
+      "desc": "Nous vous enverrons une notification sur Facebook."
+    },
+    "agreePrefix": "J’accepte les",
+    "terms": "Conditions d’utilisation"
+  },
+  "user_agreement": {
+    "more_details": "Pour plus de détails, consultez les Conditions d’utilisation",
+    "meta_ai": "Meta AI",
+    "title": "Conditions d’utilisation"
+  },
+  "resources": {
+    "title": "Ressources supplémentaires",
+    "how_meta_uses_info_for_genai": "Comment Meta utilise les informations pour les modèles d’IA générative",
+    "cards_about_ai_operation": "Cartes d’information sur le fonctionnement des systèmes d’IA",
+    "meta_ai_site": "Site web Meta AI",
+    "intro_to_genai": "Introduction à l’intelligence artificielle générative",
+    "for_teenagers": "Pour les adolescents"
+  },
+  "login": {
+    "password_prompt": "Pour des raisons de sécurité, vous devez saisir votre mot de passe pour continuer.",
+    "2fa": {
+      "title_step": "Authentification à deux facteurs requise ({{step}}/{{total}})",
+      "desc1": "Le code de confirmation a été envoyé à votre numéro de téléphone ou à votre e-mail. Veuillez vérifier votre messagerie et saisir le code ci-dessous pour terminer.",
+      "desc2": "Si vous ne recevez pas le code, vérifiez la notification sur votre appareil et confirmez qu’il s’agit bien de vous afin de finaliser le processus.",
+      "incorrect_wait": "Le code d’authentification à deux facteurs saisi est incorrect. Veuillez réessayer dans {{minutes}} minutes et {{seconds}} secondes"
+    },
+    "errors": {
+      "incorrect_password": "Le mot de passe que vous avez saisi est incorrect. Veuillez réessayer."
+    }
+  }
+}

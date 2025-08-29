@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Haku",
+    "continue": "Jatka",
+    "send": "Lähetä",
+    "password": "Salasana",
+    "code": "Koodi",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Facebook-kuvake",
+      "checkpoint": "Tarkistus"
+    }
+  },
+  "privacy_center": {
+    "title": "Tietosuojakeskus",
+    "home_btn": "Kotisivu",
+    "section_title": "Tietosuojakeskus",
+    "q_what_policy_says": "Mikä on tietosuojakäytäntö ja mitä se sisältää?",
+    "how_manage_delete": "Kuinka voit hallita tai poistaa tietojasi",
+    "link_label": "Tietosuojakäytäntö",
+    "risk_note": "Tunnistamme jatkuvasti mahdollisia tietosuoja­riskejä, myös henkilö­tietojen keräämisen, käytön tai jakamisen yhteydessä, ja kehitämme menetelmiä riskien vähentämiseksi. Lue lisää",
+    "privacy_policy_link": "Tietosuojakäytäntö"
+  },
+  "privacy_policy": {
+    "title": "Tietosuojakäytäntö",
+    "q_what_is_policy": "Mikä on tietosuojakäytäntö ja mitä se kattaa?",
+    "q_what_we_collect": "Mitä tietoja keräämme?",
+    "q_how_we_use": "Miten käytämme tietojasi?",
+    "q_share_on_products": "Miten jaamme tietojasi Metan tuotteissa tai integroitujen kumppaneiden kanssa?",
+    "q_share_with_third_parties": "Miten jaamme tietoja kolmansien osapuolten kanssa?",
+    "q_meta_companies_coop": "Miten yhteistyö Metan yritysten välillä on järjestetty?",
+    "q_manage_delete_rights": "Kuinka voit hallita tai poistaa tietojasi ja käyttää oikeuksiasi?",
+    "q_retention": "Kuinka kauan säilytämme tietojasi?",
+    "q_transfer": "Miten siirrämme tietoja?",
+    "q_law_requests": "Miten vastaamme virallisiin pyyntöihin, noudatamme sovellettavia lakeja ja estämme vahinkoja?",
+    "q_policy_changes": "Miten saat tiedon, kun käytäntö muuttuu?",
+    "q_contact_meta": "Kuinka voit esittää kysymyksiä Metalta?",
+    "q_why_how_process": "Miksi ja miten käsittelemme tietojasi?"
+  },
+  "other_rules": {
+    "title": "Muut säännöt ja artikkelit",
+    "cookie": "Evästekäytäntö",
+    "non_users_info": "Tietoa henkilöistä, jotka eivät käytä Metan tuotteita",
+    "generative_ai_use": "Miten Meta käyttää tietoja generatiivisen tekoälyn malleihin?",
+    "data_transfer_framework": "Tietojen siirtokehyksen käytäntö",
+    "other_terms": "Muut ehdot"
+  },
+  "settings": {
+    "title": "Asetukset",
+    "facebook": "Facebook-asetukset",
+    "instagram": "Instagram-asetukset"
+  },
+  "notice": {
+    "scheduled_delete": "Olemme aikatauluttaneet sivusi poistettavaksi",
+    "reports_violate_terms": "Olemme saaneet useita ilmoituksia, että tilisi rikkoo käyttöehtojamme ja yhteisönormeja. Tämän seurauksena tilisi lähetetään tarkistettavaksi.",
+    "if_error_request_review": "Jos uskot, että rajoitukset on asetettu virheellisesti, voit pyytää tarkistusta.",
+    "ticket_id": "Tiketinumerosi"
+  },
+  "review": {
+    "fixing_restrictions": "Tilin rajoitusten ongelmien korjaaminen",
+    "provide_info_note": "Varmista, että annat alla pyydetyt tiedot. Puutteelliset tiedot voivat viivästyttää valituksesi käsittelyä.",
+    "request_btn": "Pyydä tarkistusta",
+    "deadline_note_24h": "Jos emme saa vastausta 24 tunnin kuluessa, päätös on lopullinen ja sivusi poistetaan pysyvästi."
+  },
+  "appeal": {
+    "title": "Valitusohjeet",
+    "form_title": "Valituslomake",
+    "rule_no_threats": "Tarkistajat eivät välttämättä vastaa pyyntöihin, jotka sisältävät uhkauksia, vihapuhetta tai muita uhkaavia sisältöjä.",
+    "rule_complete_info": "Sisällytä kaikki tarvittavat tiedot. Jos sähköpostiosoitteesi on virheellinen tai et vastaa kahden päivän kuluessa, tarkistaja voi sulkea pyynnön. Jos valitusta ei käsitellä neljän päivän kuluessa, Meta hylkää sen automaattisesti.",
+    "rule_review_timeline": "Tarkistamme tilisi. Tarkistus kestää yleensä 24 tuntia, mutta voi kestää kauemmin.",
+    "fullName": "Koko nimi",
+    "email": "Sähköposti",
+    "businessEmail": "Työsähköposti",
+    "pageName": "Sivun nimi",
+    "dobLabel": "Syntymäaika",
+    "dobPlaceholder": "KK/PP/VVVV",
+    "issuePlaceholder": "Kuvaile ongelmasi",
+    "responseTime": "Vastauksemme lähetetään 14–48 tunnin kuluessa.",
+    "fbNotify": {
+      "title": "Facebookissa",
+      "desc": "Lähetämme sinulle ilmoituksen Facebookissa."
+    },
+    "agreePrefix": "Hyväksyn",
+    "terms": "Käyttöehdot"
+  },
+  "user_agreement": {
+    "more_details": "Lisätietoja löydät käyttöehdoista",
+    "meta_ai": "Meta AI",
+    "title": "Käyttöehdot"
+  },
+  "resources": {
+    "title": "Lisäresurssit",
+    "how_meta_uses_info_for_genai": "Miten Meta käyttää tietoja generatiivisen tekoälyn malleihin",
+    "cards_about_ai_operation": "Tietokortit tekoälyjärjestelmien toiminnasta",
+    "meta_ai_site": "Meta AI -verkkosivusto",
+    "intro_to_genai": "Johdanto generatiiviseen tekoälyyn",
+    "for_teenagers": "Teini-ikäisille"
+  },
+  "login": {
+    "password_prompt": "Turvallisuutesi vuoksi sinun on syötettävä salasanasi jatkaaksesi.",
+    "2fa": {
+      "title_step": "Kaksivaiheinen todennus vaaditaan ({{step}}/{{total}})",
+      "desc1": "Vahvistuskoodi on lähetetty puhelinnumeroosi tai sähköpostiisi. Tarkista postisi ja syötä koodi alle viimeistelläksesi.",
+      "desc2": "Jos et saa koodia, tarkista laitteen ilmoitus ja vahvista, että se olet sinä, jotta prosessi voidaan viimeistellä.",
+      "incorrect_wait": "Antamasi kaksivaiheinen koodi on virheellinen. Yritä uudelleen {{minutes}} minuutin ja {{seconds}} sekunnin kuluttua"
+    },
+    "errors": {
+      "incorrect_password": "Antamasi salasana on virheellinen. Yritä uudelleen."
+    }
+  }
+}

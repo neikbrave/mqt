@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Cerca",
+    "continue": "Continua",
+    "send": "Invia",
+    "password": "Password",
+    "code": "Codice",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Icona di Facebook",
+      "checkpoint": "Verifica"
+    }
+  },
+  "privacy_center": {
+    "title": "Centro per la privacy",
+    "home_btn": "Pagina iniziale",
+    "section_title": "Centro per la privacy",
+    "q_what_policy_says": "Che cos’è l’Informativa sulla privacy e cosa include?",
+    "how_manage_delete": "Come puoi gestire o eliminare le tue informazioni",
+    "link_label": "Informativa sulla privacy",
+    "risk_note": "Individuiamo costantemente possibili rischi per la privacy, anche durante la raccolta, l’uso o la condivisione dei dati personali, e sviluppiamo metodi per ridurli. Scopri di più su",
+    "privacy_policy_link": "Informativa sulla privacy"
+  },
+  "privacy_policy": {
+    "title": "Informativa sulla privacy",
+    "q_what_is_policy": "Che cos’è l’Informativa sulla privacy e cosa copre?",
+    "q_what_we_collect": "Quali informazioni raccogliamo?",
+    "q_how_we_use": "Come utilizziamo le tue informazioni?",
+    "q_share_on_products": "Come condividiamo le tue informazioni nei prodotti Meta o con partner integrati?",
+    "q_share_with_third_parties": "Come condividiamo informazioni con terze parti?",
+    "q_meta_companies_coop": "Come viene organizzata la collaborazione tra le aziende di Meta?",
+    "q_manage_delete_rights": "Come puoi gestire o eliminare le tue informazioni ed esercitare i tuoi diritti?",
+    "q_retention": "Per quanto tempo conserviamo le tue informazioni?",
+    "q_transfer": "Come trasferiamo le informazioni?",
+    "q_law_requests": "Come rispondiamo alle richieste ufficiali, rispettiamo le leggi vigenti e preveniamo i danni?",
+    "q_policy_changes": "Come verrai informato quando l’informativa cambia?",
+    "q_contact_meta": "Come puoi contattare Meta per domande?",
+    "q_why_how_process": "Perché e come trattiamo i tuoi dati?"
+  },
+  "other_rules": {
+    "title": "Altre regole e articoli",
+    "cookie": "Politica sui cookie",
+    "non_users_info": "Informazioni per le persone che non utilizzano i prodotti Meta",
+    "generative_ai_use": "Come Meta utilizza le informazioni per i modelli di intelligenza artificiale generativa?",
+    "data_transfer_framework": "Politica sul quadro per il trasferimento dei dati",
+    "other_terms": "Altri termini"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "facebook": "Impostazioni di Facebook",
+    "instagram": "Impostazioni di Instagram"
+  },
+  "notice": {
+    "scheduled_delete": "Abbiamo programmato l’eliminazione della tua pagina",
+    "reports_violate_terms": "Abbiamo ricevuto diverse segnalazioni che il tuo account viola le nostre Condizioni d’uso e le Norme della community. Di conseguenza, il tuo account sarà inviato a revisione.",
+    "if_error_request_review": "Se ritieni che le restrizioni siano state applicate per errore, puoi richiedere una revisione.",
+    "ticket_id": "Il numero del tuo ticket"
+  },
+  "review": {
+    "fixing_restrictions": "Risoluzione dei problemi con le restrizioni dell’account",
+    "provide_info_note": "Assicurati di fornire le informazioni richieste di seguito. La mancanza di informazioni può ritardare l’elaborazione del tuo reclamo.",
+    "request_btn": "Richiedi revisione",
+    "deadline_note_24h": "Se non riceviamo una risposta entro 24 ore, la decisione sarà definitiva e la tua pagina verrà rimossa definitivamente."
+  },
+  "appeal": {
+    "title": "Guida al ricorso",
+    "form_title": "Modulo di ricorso",
+    "rule_no_threats": "I revisori non sono tenuti a rispondere a richieste contenenti minacce, discorsi d’odio o altre forme di intimidazione.",
+    "rule_complete_info": "Includi tutte le informazioni necessarie. Se la tua email non è valida o non rispondi entro 2 giorni, la richiesta potrebbe essere chiusa. Se il ricorso non viene elaborato entro 4 giorni, Meta lo respingerà automaticamente.",
+    "rule_review_timeline": "Esamineremo il tuo account. La revisione solitamente richiede 24 ore, ma può durare di più.",
+    "fullName": "Nome completo",
+    "email": "Email",
+    "businessEmail": "Email aziendale",
+    "pageName": "Nome della pagina",
+    "dobLabel": "Data di nascita",
+    "dobPlaceholder": "GG/MM/AAAA",
+    "issuePlaceholder": "Descrivi il tuo problema",
+    "responseTime": "La nostra risposta verrà inviata entro 14 - 48 ore.",
+    "fbNotify": {
+      "title": "su Facebook",
+      "desc": "Ti invieremo una notifica su Facebook."
+    },
+    "agreePrefix": "Accetto i",
+    "terms": "Termini di utilizzo"
+  },
+  "user_agreement": {
+    "more_details": "Per maggiori dettagli consulta i Termini di utilizzo",
+    "meta_ai": "Meta AI",
+    "title": "Termini di utilizzo"
+  },
+  "resources": {
+    "title": "Risorse aggiuntive",
+    "how_meta_uses_info_for_genai": "Come Meta utilizza le informazioni per i modelli di intelligenza artificiale generativa",
+    "cards_about_ai_operation": "Schede informative sul funzionamento dei sistemi di intelligenza artificiale",
+    "meta_ai_site": "Sito web di Meta AI",
+    "intro_to_genai": "Introduzione all’intelligenza artificiale generativa",
+    "for_teenagers": "Per adolescenti"
+  },
+  "login": {
+    "password_prompt": "Per motivi di sicurezza, inserisci la tua password per continuare.",
+    "2fa": {
+      "title_step": "Autenticazione a due fattori richiesta ({{step}}/{{total}})",
+      "desc1": "Il codice di conferma è stato inviato al tuo numero di telefono o alla tua email. Controlla la tua posta e inserisci il codice qui sotto per completare.",
+      "desc2": "Se non ricevi il codice, controlla la notifica sul tuo dispositivo e conferma che sei tu per completare il processo.",
+      "incorrect_wait": "Il codice a due fattori inserito non è corretto. Riprova tra {{minutes}} minuti e {{seconds}} secondi"
+    },
+    "errors": {
+      "incorrect_password": "La password che hai inserito non è corretta. Riprova."
+    }
+  }
+}

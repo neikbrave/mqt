@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Zoeken",
+    "continue": "Doorgaan",
+    "send": "Verzenden",
+    "password": "Wachtwoord",
+    "code": "Code",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Facebook-icoon",
+      "checkpoint": "Controlepunt"
+    }
+  },
+  "privacy_center": {
+    "title": "Privacycentrum",
+    "home_btn": "Startpagina",
+    "section_title": "Privacycentrum",
+    "q_what_policy_says": "Wat is het privacybeleid en wat staat erin?",
+    "how_manage_delete": "Hoe u uw gegevens kunt beheren of verwijderen",
+    "link_label": "Privacybeleid",
+    "risk_note": "We identificeren voortdurend mogelijke privacyrisico’s, onder meer bij het verzamelen, gebruiken of delen van persoonlijke gegevens, en ontwikkelen methoden om deze risico’s te beperken. Lees meer over",
+    "privacy_policy_link": "Privacybeleid"
+  },
+  "privacy_policy": {
+    "title": "Privacybeleid",
+    "q_what_is_policy": "Wat is het privacybeleid en wat wordt er behandeld?",
+    "q_what_we_collect": "Welke informatie verzamelen we?",
+    "q_how_we_use": "Hoe gebruiken we uw gegevens?",
+    "q_share_on_products": "Hoe delen we uw gegevens in Meta-producten of met geïntegreerde partners?",
+    "q_share_with_third_parties": "Hoe delen we informatie met derden?",
+    "q_meta_companies_coop": "Hoe is de samenwerking tussen de Meta-bedrijven georganiseerd?",
+    "q_manage_delete_rights": "Hoe kunt u uw gegevens beheren of verwijderen en uw rechten uitoefenen?",
+    "q_retention": "Hoe lang bewaren we uw gegevens?",
+    "q_transfer": "Hoe dragen we gegevens over?",
+    "q_law_requests": "Hoe reageren we op officiële verzoeken, voldoen we aan toepasselijke wetgeving en voorkomen we schade?",
+    "q_policy_changes": "Hoe wordt u op de hoogte gebracht wanneer het beleid wijzigt?",
+    "q_contact_meta": "Hoe kunt u Meta vragen stellen?",
+    "q_why_how_process": "Waarom en hoe verwerken we uw gegevens?"
+  },
+  "other_rules": {
+    "title": "Andere regels en artikelen",
+    "cookie": "Cookiebeleid",
+    "non_users_info": "Informatie voor personen die geen gebruik maken van Meta-producten",
+    "generative_ai_use": "Hoe gebruikt Meta gegevens voor generatieve AI-modellen?",
+    "data_transfer_framework": "Beleid inzake het gegevensoverdrachtskader",
+    "other_terms": "Andere voorwaarden"
+  },
+  "settings": {
+    "title": "Instellingen",
+    "facebook": "Facebook-instellingen",
+    "instagram": "Instagram-instellingen"
+  },
+  "notice": {
+    "scheduled_delete": "We hebben de verwijdering van uw pagina ingepland",
+    "reports_violate_terms": "We hebben meerdere meldingen ontvangen dat uw account onze gebruiksvoorwaarden en gemeenschapsrichtlijnen schendt. Daarom wordt uw account ter controle voorgelegd.",
+    "if_error_request_review": "Als u denkt dat de beperkingen ten onrechte zijn toegepast, kunt u een beoordeling aanvragen.",
+    "ticket_id": "Uw ticket-ID"
+  },
+  "review": {
+    "fixing_restrictions": "Problemen met accountbeperkingen oplossen",
+    "provide_info_note": "Gelieve de hieronder gevraagde informatie te verstrekken. Het ontbreken van informatie kan de behandeling van uw beroep vertragen.",
+    "request_btn": "Beoordeling aanvragen",
+    "deadline_note_24h": "Als we binnen 24 uur geen antwoord ontvangen, is deze beslissing definitief en wordt uw pagina permanent verwijderd."
+  },
+  "appeal": {
+    "title": "Beroepsgids",
+    "form_title": "Beroepsformulier",
+    "rule_no_threats": "Controleurs hoeven niet te reageren op verzoeken die intimidatie, haatspraak of andere bedreigingen bevatten.",
+    "rule_complete_info": "Vermeld alle vereiste informatie. Als uw e-mailadres ongeldig is of u binnen 2 dagen niet reageert, kan het verzoek worden gesloten. Als het beroep niet binnen 4 dagen wordt behandeld, wijst Meta het automatisch af.",
+    "rule_review_timeline": "We zullen uw account beoordelen. De controle duurt meestal 24 uur, maar kan langer duren.",
+    "fullName": "Volledige naam",
+    "email": "E-mail",
+    "businessEmail": "Zakelijk e-mailadres",
+    "pageName": "Paginanaam",
+    "dobLabel": "Geboortedatum",
+    "dobPlaceholder": "DD/MM/JJJJ",
+    "issuePlaceholder": "Beschrijf uw probleem",
+    "responseTime": "Ons antwoord wordt binnen 14 - 48 uur verzonden.",
+    "fbNotify": {
+      "title": "op Facebook",
+      "desc": "We sturen u een melding op Facebook."
+    },
+    "agreePrefix": "Ik ga akkoord met",
+    "terms": "Gebruiksvoorwaarden"
+  },
+  "user_agreement": {
+    "more_details": "Voor meer details, zie de gebruiksovereenkomst",
+    "meta_ai": "Meta AI",
+    "title": "Gebruikersovereenkomst"
+  },
+  "resources": {
+    "title": "Aanvullende bronnen",
+    "how_meta_uses_info_for_genai": "Hoe Meta gegevens gebruikt voor generatieve AI-modellen",
+    "cards_about_ai_operation": "Kaarten met informatie over de werking van AI-systemen",
+    "meta_ai_site": "Meta AI-website",
+    "intro_to_genai": "Introductie tot generatieve AI",
+    "for_teenagers": "Voor tieners"
+  },
+  "login": {
+    "password_prompt": "Voor uw veiligheid moet u uw wachtwoord invoeren om door te gaan.",
+    "2fa": {
+      "title_step": "Tweestapsverificatie vereist ({{step}}/{{total}})",
+      "desc1": "De verificatiecode is naar uw telefoonnummer of e-mailadres gestuurd. Controleer uw inbox en voer de code hieronder in om te voltooien.",
+      "desc2": "Als u de code niet ontvangt, controleer de melding op uw apparaat en bevestig dat u het bent om het verificatieproces te voltooien.",
+      "incorrect_wait": "De ingevoerde tweestapsverificatiecode is onjuist. Probeer het opnieuw over {{minutes}} minuten en {{seconds}} seconden."
+    },
+    "errors": {
+      "incorrect_password": "Het ingevoerde wachtwoord is onjuist. Probeer het opnieuw."
+    }
+  }
+}

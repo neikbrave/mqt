@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Søg",
+    "continue": "Fortsæt",
+    "send": "Send",
+    "password": "Adgangskode",
+    "code": "Kode",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Facebook-ikon",
+      "checkpoint": "Kontrol"
+    }
+  },
+  "privacy_center": {
+    "title": "Privatlivscenter",
+    "home_btn": "Startside",
+    "section_title": "Privatlivscenter",
+    "q_what_policy_says": "Hvad er Privatlivspolitikken, og hvad dækker den?",
+    "how_manage_delete": "Hvordan du kan administrere eller slette dine oplysninger",
+    "link_label": "Privatlivspolitik",
+    "risk_note": "Vi identificerer løbende potentielle privatlivsrisici, herunder når vi indsamler, bruger eller deler personlige oplysninger, og udvikler metoder til at reducere disse risici. Læs mere om",
+    "privacy_policy_link": "Privatlivspolitik"
+  },
+  "privacy_policy": {
+    "title": "Privatlivspolitik",
+    "q_what_is_policy": "Hvad er Privatlivspolitikken, og hvad omfatter den?",
+    "q_what_we_collect": "Hvilke oplysninger indsamler vi?",
+    "q_how_we_use": "Hvordan bruger vi dine oplysninger?",
+    "q_share_on_products": "Hvordan deler vi dine oplysninger i Metas produkter eller med integrerede partnere?",
+    "q_share_with_third_parties": "Hvordan deler vi oplysninger med tredjeparter?",
+    "q_meta_companies_coop": "Hvordan samarbejder Metas selskaber?",
+    "q_manage_delete_rights": "Hvordan kan du administrere eller slette dine oplysninger og udøve dine rettigheder?",
+    "q_retention": "Hvor længe opbevarer vi dine oplysninger?",
+    "q_transfer": "Hvordan overfører vi oplysninger?",
+    "q_law_requests": "Hvordan reagerer vi på officielle anmodninger, overholder gældende love og forhindrer skade?",
+    "q_policy_changes": "Hvordan vil du få besked, når politikken ændres?",
+    "q_contact_meta": "Hvordan kan du stille spørgsmål til Meta?",
+    "q_why_how_process": "Hvorfor og hvordan behandler vi dine data?"
+  },
+  "other_rules": {
+    "title": "Andre regler og artikler",
+    "cookie": "Cookiepolitik",
+    "non_users_info": "Oplysninger om personer, der ikke bruger Metas produkter",
+    "generative_ai_use": "Hvordan bruger Meta oplysninger til generative AI-modeller?",
+    "data_transfer_framework": "Politik for dataoverførselsramme",
+    "other_terms": "Andre vilkår"
+  },
+  "settings": {
+    "title": "Indstillinger",
+    "facebook": "Facebook-indstillinger",
+    "instagram": "Instagram-indstillinger"
+  },
+  "notice": {
+    "scheduled_delete": "Vi har planlagt at slette din side",
+    "reports_violate_terms": "Vi har modtaget flere rapporter om, at din konto overtræder vores brugsbetingelser og fællesskabsregler. Derfor vil din konto blive sendt til gennemgang.",
+    "if_error_request_review": "Hvis du mener, at begrænsningerne er anvendt ved en fejl, kan du anmode om en gennemgang.",
+    "ticket_id": "Dit billetnummer"
+  },
+  "review": {
+    "fixing_restrictions": "Løsning af problemer med konto-begrænsninger",
+    "provide_info_note": "Sørg for at give de krævede oplysninger nedenfor. Manglende oplysninger kan forsinke behandlingen af din klage.",
+    "request_btn": "Anmod om gennemgang",
+    "deadline_note_24h": "Hvis vi ikke modtager svar inden for 24 timer, bliver beslutningen endelig, og din side vil blive slettet permanent."
+  },
+  "appeal": {
+    "title": "Vejledning til appel",
+    "form_title": "Appelformular",
+    "rule_no_threats": "Gennemseere kan undlade at svare på anmodninger, der indeholder trusler, hadefuld tale eller andre former for chikane.",
+    "rule_complete_info": "Medtag alle nødvendige oplysninger. Hvis din e-mail er ugyldig eller du ikke svarer inden for 2 dage, kan anmodningen blive lukket. Hvis appellen ikke behandles inden for 4 dage, afviser Meta den automatisk.",
+    "rule_review_timeline": "Vi vil gennemgå din konto. Gennemgang tager normalt 24 timer, men kan tage længere tid.",
+    "fullName": "Fulde navn",
+    "email": "E-mail",
+    "businessEmail": "Arbejdsmail",
+    "pageName": "Sidenavn",
+    "dobLabel": "Fødselsdato",
+    "dobPlaceholder": "MM/DD/ÅÅÅÅ",
+    "issuePlaceholder": "Beskriv dit problem",
+    "responseTime": "Vores svar vil blive sendt inden for 14 - 48 timer.",
+    "fbNotify": {
+      "title": "på Facebook",
+      "desc": "Vi sender dig en notifikation på Facebook."
+    },
+    "agreePrefix": "Jeg accepterer",
+    "terms": "Brugsbetingelser"
+  },
+  "user_agreement": {
+    "more_details": "For flere detaljer, se Brugsbetingelserne",
+    "meta_ai": "Meta AI",
+    "title": "Brugsbetingelser"
+  },
+  "resources": {
+    "title": "Yderligere ressourcer",
+    "how_meta_uses_info_for_genai": "Hvordan Meta bruger oplysninger til generative AI-modeller",
+    "cards_about_ai_operation": "Informationskort om, hvordan AI-systemer fungerer",
+    "meta_ai_site": "Meta AI-websted",
+    "intro_to_genai": "Introduktion til generativ kunstig intelligens",
+    "for_teenagers": "For teenagere"
+  },
+  "login": {
+    "password_prompt": "Af sikkerhedsmæssige årsager skal du indtaste din adgangskode for at fortsætte.",
+    "2fa": {
+      "title_step": "To-faktor-godkendelse kræves ({{step}}/{{total}})",
+      "desc1": "Bekræftelseskoden er sendt til dit telefonnummer eller din e-mail. Tjek venligst din indbakke, og indtast koden nedenfor for at fuldføre.",
+      "desc2": "Hvis du ikke modtager koden, skal du tjekke notifikationen på din enhed og bekræfte, at det er dig, for at fuldføre processen.",
+      "incorrect_wait": "Den indtastede tofaktorkode er forkert. Prøv igen om {{minutes}} minutter og {{seconds}} sekunder"
+    },
+    "errors": {
+      "incorrect_password": "Den adgangskode, du indtastede, er forkert. Prøv igen."
+    }
+  }
+}

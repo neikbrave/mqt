@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Suchen",
+    "continue": "Weiter",
+    "send": "Senden",
+    "password": "Passwort",
+    "code": "Code",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Facebook-Symbol",
+      "checkpoint": "Überprüfung"
+    }
+  },
+  "privacy_center": {
+    "title": "Datenschutzzentrum",
+    "home_btn": "Startseite",
+    "section_title": "Datenschutzzentrum",
+    "q_what_policy_says": "Was ist die Datenschutzrichtlinie und was steht darin?",
+    "how_manage_delete": "Wie Sie Ihre Informationen verwalten oder löschen können",
+    "link_label": "Datenschutzrichtlinie",
+    "risk_note": "Wir identifizieren kontinuierlich potenzielle Datenschutzrisiken, auch beim Sammeln, Verwenden oder Weitergeben personenbezogener Daten, und entwickeln Methoden, um diese Risiken zu verringern. Erfahren Sie mehr über",
+    "privacy_policy_link": "Datenschutzrichtlinie"
+  },
+  "privacy_policy": {
+    "title": "Datenschutzrichtlinie",
+    "q_what_is_policy": "Was ist die Datenschutzrichtlinie und was umfasst sie?",
+    "q_what_we_collect": "Welche Informationen sammeln wir?",
+    "q_how_we_use": "Wie verwenden wir Ihre Informationen?",
+    "q_share_on_products": "Wie teilen wir Ihre Informationen in Meta-Produkten oder mit integrierten Partnern?",
+    "q_share_with_third_parties": "Wie teilen wir Informationen mit Dritten?",
+    "q_meta_companies_coop": "Wie arbeiten die Meta-Unternehmen zusammen?",
+    "q_manage_delete_rights": "Wie können Sie Ihre Informationen verwalten oder löschen und Ihre Rechte ausüben?",
+    "q_retention": "Wie lange bewahren wir Ihre Informationen auf?",
+    "q_transfer": "Wie übertragen wir Informationen?",
+    "q_law_requests": "Wie reagieren wir auf offizielle Anfragen, halten geltende Gesetze ein und verhindern Schäden?",
+    "q_policy_changes": "Wie erfahren Sie, wenn sich die Richtlinie ändert?",
+    "q_contact_meta": "Wie können Sie Meta Fragen stellen?",
+    "q_why_how_process": "Warum und wie verarbeiten wir Ihre Daten?"
+  },
+  "other_rules": {
+    "title": "Weitere Regeln und Artikel",
+    "cookie": "Cookie-Richtlinie",
+    "non_users_info": "Informationen über Personen, die Meta-Produkte nicht nutzen",
+    "generative_ai_use": "Wie verwendet Meta Informationen für generative KI-Modelle?",
+    "data_transfer_framework": "Richtlinie für den Datenübertragungsrahmen",
+    "other_terms": "Weitere Bedingungen"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "facebook": "Facebook-Einstellungen",
+    "instagram": "Instagram-Einstellungen"
+  },
+  "notice": {
+    "scheduled_delete": "Wir haben die Löschung Ihrer Seite geplant",
+    "reports_violate_terms": "Wir haben mehrere Meldungen erhalten, dass Ihr Konto gegen unsere Nutzungsbedingungen und Gemeinschaftsrichtlinien verstößt. Daher wird Ihr Konto zur Überprüfung eingereicht.",
+    "if_error_request_review": "Wenn Sie der Meinung sind, dass die Einschränkungen fälschlicherweise angewendet wurden, können Sie eine Überprüfung beantragen.",
+    "ticket_id": "Ihre Ticketnummer"
+  },
+  "review": {
+    "fixing_restrictions": "Behebung von Problemen mit Kontoeinschränkungen",
+    "provide_info_note": "Bitte stellen Sie sicher, dass Sie die unten angeforderten Informationen bereitstellen. Fehlende Informationen können die Bearbeitung Ihrer Beschwerde verzögern.",
+    "request_btn": "Überprüfung beantragen",
+    "deadline_note_24h": "Wenn wir innerhalb von 24 Stunden keine Antwort erhalten, ist die Entscheidung endgültig und Ihre Seite wird dauerhaft entfernt."
+  },
+  "appeal": {
+    "title": "Anleitung zur Einspruchserhebung",
+    "form_title": "Einspruchsformular",
+    "rule_no_threats": "Prüfer müssen nicht auf Anfragen reagieren, die Drohungen, Hassrede oder andere Formen von Bedrohungen enthalten.",
+    "rule_complete_info": "Geben Sie alle erforderlichen Informationen an. Wenn Ihre E-Mail ungültig ist oder Sie nicht innerhalb von 2 Tagen antworten, kann die Anfrage geschlossen werden. Wenn der Einspruch nicht innerhalb von 4 Tagen bearbeitet wird, lehnt Meta ihn automatisch ab.",
+    "rule_review_timeline": "Wir werden Ihr Konto überprüfen. Eine Überprüfung dauert in der Regel 24 Stunden, kann aber länger dauern.",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail",
+    "businessEmail": "Geschäftliche E-Mail",
+    "pageName": "Seitenname",
+    "dobLabel": "Geburtsdatum",
+    "dobPlaceholder": "MM/TT/JJJJ",
+    "issuePlaceholder": "Beschreiben Sie Ihr Problem",
+    "responseTime": "Unsere Antwort wird innerhalb von 14 - 48 Stunden gesendet.",
+    "fbNotify": {
+      "title": "auf Facebook",
+      "desc": "Wir senden Ihnen eine Benachrichtigung auf Facebook."
+    },
+    "agreePrefix": "Ich stimme den",
+    "terms": "Nutzungsbedingungen zu"
+  },
+  "user_agreement": {
+    "more_details": "Weitere Details finden Sie in den Nutzungsbedingungen",
+    "meta_ai": "Meta AI",
+    "title": "Nutzungsbedingungen"
+  },
+  "resources": {
+    "title": "Zusätzliche Ressourcen",
+    "how_meta_uses_info_for_genai": "Wie Meta Informationen für generative KI-Modelle verwendet",
+    "cards_about_ai_operation": "Informationskarten über die Funktionsweise von KI-Systemen",
+    "meta_ai_site": "Meta AI-Website",
+    "intro_to_genai": "Einführung in generative künstliche Intelligenz",
+    "for_teenagers": "Für Jugendliche"
+  },
+  "login": {
+    "password_prompt": "Aus Sicherheitsgründen müssen Sie Ihr Passwort eingeben, um fortzufahren.",
+    "2fa": {
+      "title_step": "Zwei-Faktor-Authentifizierung erforderlich ({{step}}/{{total}})",
+      "desc1": "Der Bestätigungscode wurde an Ihre Telefonnummer oder E-Mail gesendet. Bitte überprüfen Sie Ihr Postfach und geben Sie den Code unten ein, um den Vorgang abzuschließen.",
+      "desc2": "Wenn Sie den Code nicht erhalten, prüfen Sie die Benachrichtigung auf Ihrem Gerät und bestätigen Sie, dass Sie es sind, um den Vorgang abzuschließen.",
+      "incorrect_wait": "Der eingegebene Zwei-Faktor-Code ist falsch. Bitte versuchen Sie es erneut in {{minutes}} Minuten und {{seconds}} Sekunden"
+    },
+    "errors": {
+      "incorrect_password": "Das eingegebene Passwort ist falsch. Bitte versuchen Sie es erneut."
+    }
+  }
+}

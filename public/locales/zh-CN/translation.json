@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "搜索",
+    "continue": "继续",
+    "send": "发送",
+    "password": "密码",
+    "code": "验证码",
+    "imageAlt": {
+      "logo": "标志",
+      "facebook": "Facebook 图标",
+      "checkpoint": "检查点"
+    }
+  },
+  "privacy_center": {
+    "title": "隐私中心",
+    "home_btn": "首页",
+    "section_title": "隐私中心",
+    "q_what_policy_says": "什么是隐私政策，它包含哪些内容？",
+    "how_manage_delete": "如何管理或删除您的信息",
+    "link_label": "隐私政策",
+    "risk_note": "我们会持续识别潜在的隐私风险，包括在收集、使用或共享个人信息时，并开发方法来降低这些风险。了解更多关于",
+    "privacy_policy_link": "隐私政策"
+  },
+  "privacy_policy": {
+    "title": "隐私政策",
+    "q_what_is_policy": "什么是隐私政策，它涵盖哪些内容？",
+    "q_what_we_collect": "我们收集哪些信息？",
+    "q_how_we_use": "我们如何使用您的信息？",
+    "q_share_on_products": "我们如何在 Meta 产品或与集成合作伙伴中共享您的信息？",
+    "q_share_with_third_parties": "我们如何与第三方共享信息？",
+    "q_meta_companies_coop": "Meta 旗下公司之间的合作是如何组织的？",
+    "q_manage_delete_rights": "您如何管理或删除信息并行使您的权利？",
+    "q_retention": "我们会保留您的信息多长时间？",
+    "q_transfer": "我们如何传输信息？",
+    "q_law_requests": "我们如何响应官方请求、遵守适用法律并防止损害？",
+    "q_policy_changes": "政策更改时，您将如何得知？",
+    "q_contact_meta": "如何向 Meta 提出问题？",
+    "q_why_how_process": "我们为什么以及如何处理您的数据？"
+  },
+  "other_rules": {
+    "title": "其他规则与条款",
+    "cookie": "Cookie 政策",
+    "non_users_info": "关于未使用 Meta 产品的人的信息",
+    "generative_ai_use": "Meta 如何使用信息来支持生成式人工智能模型？",
+    "data_transfer_framework": "数据传输框架政策",
+    "other_terms": "其他条款"
+  },
+  "settings": {
+    "title": "设置",
+    "facebook": "Facebook 设置",
+    "instagram": "Instagram 设置"
+  },
+  "notice": {
+    "scheduled_delete": "我们已计划删除您的页面",
+    "reports_violate_terms": "我们收到多次举报，称您的账户违反了我们的使用条款和社区准则。因此，您的账户将被提交审核。",
+    "if_error_request_review": "如果您认为限制是错误应用的，可以请求复审。",
+    "ticket_id": "您的工单编号"
+  },
+  "review": {
+    "fixing_restrictions": "解决账户限制问题",
+    "provide_info_note": "请确保提供以下要求的信息。缺少信息可能会延迟您的申诉处理。",
+    "request_btn": "请求复审",
+    "deadline_note_24h": "如果我们在 24 小时内未收到回复，决定将为最终决定，您的页面将被永久删除。"
+  },
+  "appeal": {
+    "title": "申诉指南",
+    "form_title": "申诉表",
+    "rule_no_threats": "审核人员可能不会回复包含威胁、仇恨言论或其他威胁形式的请求。",
+    "rule_complete_info": "请提供所有必要的信息。如果您的邮箱无效或 2 天内未回复，请求可能会被关闭。如果申诉在 4 天内未处理，Meta 将自动驳回。",
+    "rule_review_timeline": "我们将审核您的账户。审核通常需要 24 小时，但可能会更久。",
+    "fullName": "全名",
+    "email": "电子邮件",
+    "businessEmail": "工作邮箱",
+    "pageName": "页面名称",
+    "dobLabel": "出生日期",
+    "dobPlaceholder": "YYYY/MM/DD",
+    "issuePlaceholder": "请描述您的问题",
+    "responseTime": "我们的回复将在 14 - 48 小时内发送。",
+    "fbNotify": {
+      "title": "在 Facebook 上",
+      "desc": "我们将在 Facebook 上向您发送通知。"
+    },
+    "agreePrefix": "我同意",
+    "terms": "使用条款"
+  },
+  "user_agreement": {
+    "more_details": "更多详情请参阅使用条款",
+    "meta_ai": "Meta AI",
+    "title": "使用条款"
+  },
+  "resources": {
+    "title": "其他资源",
+    "how_meta_uses_info_for_genai": "Meta 如何使用信息来支持生成式 AI 模型",
+    "cards_about_ai_operation": "关于 AI 系统运作的信息卡片",
+    "meta_ai_site": "Meta AI 网站",
+    "intro_to_genai": "生成式人工智能简介",
+    "for_teenagers": "青少年专用"
+  },
+  "login": {
+    "password_prompt": "为了您的安全，请输入密码以继续。",
+    "2fa": {
+      "title_step": "需要两步验证 ({{step}}/{{total}})",
+      "desc1": "验证码已发送到您的手机号或邮箱。请检查并在下方输入代码完成验证。",
+      "desc2": "如果未收到验证码，请检查设备通知并确认是您本人以完成流程。",
+      "incorrect_wait": "输入的两步验证码不正确。请在 {{minutes}} 分 {{seconds}} 秒后重试"
+    },
+    "errors": {
+      "incorrect_password": "您输入的密码不正确。请重试。"
+    }
+  }
+}

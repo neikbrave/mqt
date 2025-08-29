@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Hledat",
+    "continue": "Pokračovat",
+    "send": "Odeslat",
+    "password": "Heslo",
+    "code": "Kód",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Ikona Facebooku",
+      "checkpoint": "Kontrola"
+    }
+  },
+  "privacy_center": {
+    "title": "Centrum ochrany osobních údajů",
+    "home_btn": "Domovská stránka",
+    "section_title": "Centrum ochrany osobních údajů",
+    "q_what_policy_says": "Co je Zásady ochrany osobních údajů a co obsahují?",
+    "how_manage_delete": "Jak můžete spravovat nebo mazat své informace",
+    "link_label": "Zásady ochrany osobních údajů",
+    "risk_note": "Nepřetržitě identifikujeme potenciální rizika pro soukromí, včetně sběru, používání nebo sdílení osobních údajů, a vyvíjíme metody ke snížení těchto rizik. Přečtěte si více o",
+    "privacy_policy_link": "Zásady ochrany osobních údajů"
+  },
+  "privacy_policy": {
+    "title": "Zásady ochrany osobních údajů",
+    "q_what_is_policy": "Co jsou Zásady ochrany osobních údajů a co zahrnují?",
+    "q_what_we_collect": "Jaké informace shromažďujeme?",
+    "q_how_we_use": "Jak používáme vaše informace?",
+    "q_share_on_products": "Jak sdílíme vaše informace v produktech Meta nebo s integrovanými partnery?",
+    "q_share_with_third_parties": "Jak sdílíme informace s třetími stranami?",
+    "q_meta_companies_coop": "Jak je organizována spolupráce mezi společnostmi Meta?",
+    "q_manage_delete_rights": "Jak můžete spravovat nebo mazat své informace a uplatňovat svá práva?",
+    "q_retention": "Jak dlouho uchováváme vaše informace?",
+    "q_transfer": "Jak předáváme informace?",
+    "q_law_requests": "Jak reagujeme na oficiální žádosti, dodržujeme platné zákony a předcházíme škodám?",
+    "q_policy_changes": "Jak zjistíte, že se zásady změnily?",
+    "q_contact_meta": "Jak položit dotazy společnosti Meta?",
+    "q_why_how_process": "Proč a jak zpracováváme vaše údaje?"
+  },
+  "other_rules": {
+    "title": "Další pravidla a články",
+    "cookie": "Zásady používání souborů cookie",
+    "non_users_info": "Informace o lidech, kteří nepoužívají produkty Meta",
+    "generative_ai_use": "Jak Meta používá informace pro modely generativní umělé inteligence?",
+    "data_transfer_framework": "Zásady rámce pro přenos dat",
+    "other_terms": "Další podmínky"
+  },
+  "settings": {
+    "title": "Nastavení",
+    "facebook": "Nastavení Facebooku",
+    "instagram": "Nastavení Instagramu"
+  },
+  "notice": {
+    "scheduled_delete": "Vaše stránka je naplánována k odstranění",
+    "reports_violate_terms": "Obdrželi jsme několik hlášení, že váš účet porušuje naše podmínky používání a zásady komunity. V důsledku toho bude váš účet předán ke kontrole.",
+    "if_error_request_review": "Pokud se domníváte, že omezení bylo uplatněno omylem, můžete požádat o přezkum.",
+    "ticket_id": "Číslo vašeho tiketu"
+  },
+  "review": {
+    "fixing_restrictions": "Řešení problémů s omezeními účtu",
+    "provide_info_note": "Ujistěte se, že poskytujete požadované informace níže. Nedostatek informací může zpozdit zpracování vaší žádosti.",
+    "request_btn": "Požádat o přezkum",
+    "deadline_note_24h": "Pokud neobdržíme odpověď do 24 hodin, rozhodnutí bude konečné a vaše stránka bude trvale odstraněna."
+  },
+  "appeal": {
+    "title": "Pokyny k odvolání",
+    "form_title": "Formulář odvolání",
+    "rule_no_threats": "Kontroloři nemusí reagovat na žádosti, které obsahují výhrůžky, nenávistné projevy nebo jiné formy zastrašování.",
+    "rule_complete_info": "Uveďte všechny požadované informace. Pokud je váš e-mail neplatný nebo neodpovíte do 2 dnů, kontrolor může žádost uzavřít. Pokud odvolání nebude vyřízeno do 4 dnů, Meta jej automaticky zamítne.",
+    "rule_review_timeline": "Váš účet bude zkontrolován. Kontrola obvykle trvá 24 hodin, ale může i déle.",
+    "fullName": "Celé jméno",
+    "email": "E-mail",
+    "businessEmail": "Firemní e-mail",
+    "pageName": "Název stránky",
+    "dobLabel": "Datum narození",
+    "dobPlaceholder": "MM/DD/RRRR",
+    "issuePlaceholder": "Popište svůj problém",
+    "responseTime": "Naši odpověď obdržíte do 14–48 hodin.",
+    "fbNotify": {
+      "title": "na Facebooku",
+      "desc": "Zašleme vám oznámení na Facebooku."
+    },
+    "agreePrefix": "Souhlasím s",
+    "terms": "Podmínky používání"
+  },
+  "user_agreement": {
+    "more_details": "Další podrobnosti naleznete v Podmínkách používání",
+    "meta_ai": "Meta AI",
+    "title": "Podmínky používání"
+  },
+  "resources": {
+    "title": "Další zdroje",
+    "how_meta_uses_info_for_genai": "Jak Meta používá informace pro modely generativní AI",
+    "cards_about_ai_operation": "Karty s informacemi o fungování systémů umělé inteligence",
+    "meta_ai_site": "Web Meta AI",
+    "intro_to_genai": "Úvod do generativní umělé inteligence",
+    "for_teenagers": "Pro teenagery"
+  },
+  "login": {
+    "password_prompt": "Z bezpečnostních důvodů musíte zadat své heslo, abyste mohli pokračovat.",
+    "2fa": {
+      "title_step": "Je vyžadováno dvoufaktorové ověření ({{step}}/{{total}})",
+      "desc1": "Potvrzovací kód byl odeslán na vaše telefonní číslo nebo e-mail. Zkontrolujte prosím svou poštu a zadejte kód níže pro dokončení.",
+      "desc2": "Pokud kód neobdržíte, zkontrolujte oznámení na svém zařízení a potvrďte, že jste to vy, abyste dokončili proces.",
+      "incorrect_wait": "Zadaný dvoufaktorový kód je nesprávný. Zkuste to prosím znovu za {{minutes}} minut {{seconds}} sekund"
+    },
+    "errors": {
+      "incorrect_password": "Zadané heslo je nesprávné. Zkuste to prosím znovu."
+    }
+  }
+}

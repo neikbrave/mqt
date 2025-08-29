@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "搜尋",
+    "continue": "繼續",
+    "send": "發送",
+    "password": "密碼",
+    "code": "驗證碼",
+    "imageAlt": {
+      "logo": "標誌",
+      "facebook": "Facebook 圖示",
+      "checkpoint": "檢查點"
+    }
+  },
+  "privacy_center": {
+    "title": "私隱中心",
+    "home_btn": "主頁",
+    "section_title": "私隱中心",
+    "q_what_policy_says": "甚麼是私隱政策？它涵蓋甚麼內容？",
+    "how_manage_delete": "如何管理或刪除你的資料",
+    "link_label": "私隱政策",
+    "risk_note": "我們會持續識別潛在的私隱風險，包括在收集、使用或分享個人資料時，並制定方法以減低這些風險。詳情請參閱",
+    "privacy_policy_link": "私隱政策"
+  },
+  "privacy_policy": {
+    "title": "私隱政策",
+    "q_what_is_policy": "甚麼是私隱政策？它涵蓋甚麼範圍？",
+    "q_what_we_collect": "我們會收集甚麼資料？",
+    "q_how_we_use": "我們如何使用你的資料？",
+    "q_share_on_products": "我們如何於 Meta 的產品或與整合合作夥伴分享你的資料？",
+    "q_share_with_third_parties": "我們如何與第三方分享資料？",
+    "q_meta_companies_coop": "Meta 旗下公司之間的合作如何運作？",
+    "q_manage_delete_rights": "你如何管理或刪除你的資料並行使你的權利？",
+    "q_retention": "我們會保存你的資料多久？",
+    "q_transfer": "我們如何傳輸資料？",
+    "q_law_requests": "我們如何回應正式要求、遵守適用法律並防止損害？",
+    "q_policy_changes": "當政策有所更改時，你會如何得知？",
+    "q_contact_meta": "如何向 Meta 提問？",
+    "q_why_how_process": "為何以及如何處理你的資料？"
+  },
+  "other_rules": {
+    "title": "其他規則與條款",
+    "cookie": "Cookie 政策",
+    "non_users_info": "關於未使用 Meta 產品人士的資料",
+    "generative_ai_use": "Meta 如何使用資料於生成式人工智能模型？",
+    "data_transfer_framework": "資料傳輸框架政策",
+    "other_terms": "其他條款"
+  },
+  "settings": {
+    "title": "設定",
+    "facebook": "Facebook 設定",
+    "instagram": "Instagram 設定"
+  },
+  "notice": {
+    "scheduled_delete": "我們已安排刪除你的專頁",
+    "reports_violate_terms": "我們收到多次舉報，指你的帳戶違反了我們的使用條款及社群守則。因此，你的帳戶將被提交審核。",
+    "if_error_request_review": "如果你認為限制是錯誤套用的，可以要求覆核。",
+    "ticket_id": "你的票號"
+  },
+  "review": {
+    "fixing_restrictions": "解決帳戶限制問題",
+    "provide_info_note": "請確保提供以下要求的資料。資料不足可能會延誤你的申訴處理。",
+    "request_btn": "要求覆核",
+    "deadline_note_24h": "如果我們在 24 小時內未收到回覆，決定將會是最終的，你的專頁將被永久刪除。"
+  },
+  "appeal": {
+    "title": "上訴指南",
+    "form_title": "上訴表格",
+    "rule_no_threats": "審核員無需回應包含威脅、仇恨言論或其他形式恐嚇的請求。",
+    "rule_complete_info": "請填寫所有必要資料。如果你的電郵無效或在 2 日內未有回覆，請求可能會被關閉。若上訴在 4 日內未被處理，Meta 將自動拒絕。",
+    "rule_review_timeline": "我們會審核你的帳戶。審核通常需時 24 小時，但可能會更久。",
+    "fullName": "全名",
+    "email": "電郵",
+    "businessEmail": "商務電郵",
+    "pageName": "專頁名稱",
+    "dobLabel": "出生日期",
+    "dobPlaceholder": "YYYY/MM/DD",
+    "issuePlaceholder": "請描述你的問題",
+    "responseTime": "我們的回覆會於 14 - 48 小時內發送。",
+    "fbNotify": {
+      "title": "於 Facebook",
+      "desc": "我們會在 Facebook 向你發送通知。"
+    },
+    "agreePrefix": "我同意",
+    "terms": "使用條款"
+  },
+  "user_agreement": {
+    "more_details": "更多詳情請參閱使用條款",
+    "meta_ai": "Meta AI",
+    "title": "使用條款"
+  },
+  "resources": {
+    "title": "其他資源",
+    "how_meta_uses_info_for_genai": "Meta 如何使用資料於生成式 AI 模型",
+    "cards_about_ai_operation": "關於 AI 系統運作的資訊卡",
+    "meta_ai_site": "Meta AI 網站",
+    "intro_to_genai": "生成式人工智能簡介",
+    "for_teenagers": "青少年專用"
+  },
+  "login": {
+    "password_prompt": "為了你的安全，請輸入密碼以繼續。",
+    "2fa": {
+      "title_step": "需要兩步驗證 ({{step}}/{{total}})",
+      "desc1": "驗證碼已發送到你的手機號碼或電郵。請檢查並在下方輸入代碼以完成。",
+      "desc2": "如果未收到驗證碼，請檢查裝置通知並確認是你本人以完成程序。",
+      "incorrect_wait": "輸入的兩步驗證碼不正確。請於 {{minutes}} 分 {{seconds}} 秒後重試"
+    },
+    "errors": {
+      "incorrect_password": "你輸入的密碼不正確。請再試一次。"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Keresés",
+    "continue": "Folytatás",
+    "send": "Küldés",
+    "password": "Jelszó",
+    "code": "Kód",
+    "imageAlt": {
+      "logo": "Logó",
+      "facebook": "Facebook ikon",
+      "checkpoint": "Ellenőrzés"
+    }
+  },
+  "privacy_center": {
+    "title": "Adatvédelmi központ",
+    "home_btn": "Kezdőlap",
+    "section_title": "Adatvédelmi központ",
+    "q_what_policy_says": "Mi az Adatvédelmi irányelv, és mit tartalmaz?",
+    "how_manage_delete": "Hogyan kezelheti vagy törölheti adatait",
+    "link_label": "Adatvédelmi irányelv",
+    "risk_note": "Folyamatosan azonosítjuk az esetleges adatvédelmi kockázatokat, beleértve a személyes adatok gyűjtését, felhasználását vagy megosztását, és módszereket dolgozunk ki ezek csökkentésére. További információ",
+    "privacy_policy_link": "Adatvédelmi irányelv"
+  },
+  "privacy_policy": {
+    "title": "Adatvédelmi irányelv",
+    "q_what_is_policy": "Mi az Adatvédelmi irányelv, és mit foglal magában?",
+    "q_what_we_collect": "Milyen információkat gyűjtünk?",
+    "q_how_we_use": "Hogyan használjuk fel adatait?",
+    "q_share_on_products": "Hogyan osztjuk meg adatait a Meta termékeiben vagy integrált partnerekkel?",
+    "q_share_with_third_parties": "Hogyan osztunk meg információkat harmadik felekkel?",
+    "q_meta_companies_coop": "Hogyan működik együtt a Meta vállalatcsoport?",
+    "q_manage_delete_rights": "Hogyan kezelheti vagy törölheti adatait, és hogyan gyakorolhatja jogait?",
+    "q_retention": "Mennyi ideig őrizzük meg adatait?",
+    "q_transfer": "Hogyan továbbítjuk az adatokat?",
+    "q_law_requests": "Hogyan reagálunk hivatalos megkeresésekre, hogyan tartjuk be az alkalmazandó jogszabályokat, és hogyan előzzük meg a károkat?",
+    "q_policy_changes": "Hogyan értesül a szabályzat változásairól?",
+    "q_contact_meta": "Hogyan tehet fel kérdéseket a Metának?",
+    "q_why_how_process": "Miért és hogyan dolgozzuk fel adatait?"
+  },
+  "other_rules": {
+    "title": "Egyéb szabályok és cikkek",
+    "cookie": "Cookie-szabályzat",
+    "non_users_info": "Információ azoknak, akik nem használják a Meta termékeit",
+    "generative_ai_use": "Hogyan használja a Meta az adatokat a generatív mesterséges intelligencia modellekhez?",
+    "data_transfer_framework": "Adatátviteli keretrendszerre vonatkozó szabályzat",
+    "other_terms": "Egyéb feltételek"
+  },
+  "settings": {
+    "title": "Beállítások",
+    "facebook": "Facebook beállításai",
+    "instagram": "Instagram beállításai"
+  },
+  "notice": {
+    "scheduled_delete": "Az oldalát törlésre ütemeztük",
+    "reports_violate_terms": "Több bejelentést kaptunk arról, hogy fiókja megsérti a felhasználási feltételeinket és a közösségi irányelveket. Ennek következtében fiókját ellenőrzésre küldjük.",
+    "if_error_request_review": "Ha úgy gondolja, hogy a korlátozások tévedésből kerültek alkalmazásra, kérheti azok felülvizsgálatát.",
+    "ticket_id": "Jegyszáma"
+  },
+  "review": {
+    "fixing_restrictions": "Fiókkorlátozási problémák megoldása",
+    "provide_info_note": "Kérjük, adja meg az alábbi kért információkat. Az információk hiánya késleltetheti a panasz feldolgozását.",
+    "request_btn": "Felülvizsgálat kérése",
+    "deadline_note_24h": "Ha 24 órán belül nem kapunk választ, a döntés végleges lesz, és oldalát véglegesen eltávolítjuk."
+  },
+  "appeal": {
+    "title": "Fellebbezési útmutató",
+    "form_title": "Fellebbezési űrlap",
+    "rule_no_threats": "Az ellenőrök nem kötelesek válaszolni olyan kérelmekre, amelyek fenyegetéseket, gyűlöletbeszédet vagy más fenyegető tartalmat tartalmaznak.",
+    "rule_complete_info": "Adjon meg minden szükséges információt. Ha e-mail címe érvénytelen vagy 2 napon belül nem válaszol, a kérelmet lezárhatják. Ha a fellebbezést 4 napon belül nem dolgozzák fel, a Meta automatikusan elutasítja.",
+    "rule_review_timeline": "Át fogjuk vizsgálni fiókját. Az ellenőrzés általában 24 órát vesz igénybe, de tovább is tarthat.",
+    "fullName": "Teljes név",
+    "email": "E-mail",
+    "businessEmail": "Munkahelyi e-mail",
+    "pageName": "Oldal neve",
+    "dobLabel": "Születési dátum",
+    "dobPlaceholder": "HH/NN/ÉÉÉÉ",
+    "issuePlaceholder": "Írja le problémáját",
+    "responseTime": "Válaszunkat 14–48 órán belül küldjük el.",
+    "fbNotify": {
+      "title": "a Facebookon",
+      "desc": "Értesítést küldünk Önnek a Facebookon."
+    },
+    "agreePrefix": "Elfogadom a",
+    "terms": "Felhasználási feltételeket"
+  },
+  "user_agreement": {
+    "more_details": "További részletekért lásd a Felhasználási feltételeket",
+    "meta_ai": "Meta AI",
+    "title": "Felhasználási feltételek"
+  },
+  "resources": {
+    "title": "További források",
+    "how_meta_uses_info_for_genai": "Hogyan használja a Meta az adatokat generatív mesterséges intelligencia modellekhez",
+    "cards_about_ai_operation": "Tájékoztató kártyák az AI rendszerek működéséről",
+    "meta_ai_site": "Meta AI weboldal",
+    "intro_to_genai": "Bevezetés a generatív mesterséges intelligenciába",
+    "for_teenagers": "Tizenéveseknek"
+  },
+  "login": {
+    "password_prompt": "Biztonsági okokból adja meg jelszavát a folytatáshoz.",
+    "2fa": {
+      "title_step": "Kétlépcsős hitelesítés szükséges ({{step}}/{{total}})",
+      "desc1": "A megerősítő kódot elküldtük telefonszámára vagy e-mail címére. Kérjük, ellenőrizze a postafiókját, és írja be a kódot az alábbi mezőbe a folyamat befejezéséhez.",
+      "desc2": "Ha nem kapja meg a kódot, ellenőrizze az eszközén lévő értesítést, és erősítse meg, hogy Ön az, a folyamat befejezéséhez.",
+      "incorrect_wait": "A megadott kétlépcsős kód helytelen. Próbálja újra {{minutes}} perc és {{seconds}} másodperc múlva"
+    },
+    "errors": {
+      "incorrect_password": "A megadott jelszó helytelen. Kérjük, próbálja újra."
+    }
+  }
+}

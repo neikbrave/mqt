@@ -1,0 +1,111 @@
+{
+  "common": {
+    "search": "Ara",
+    "continue": "Devam et",
+    "send": "Gönder",
+    "password": "Şifre",
+    "code": "Kod",
+    "imageAlt": {
+      "logo": "Logo",
+      "facebook": "Facebook simgesi",
+      "checkpoint": "Kontrol noktası"
+    }
+  },
+  "privacy_center": {
+    "title": "Gizlilik Merkezi",
+    "home_btn": "Ana sayfa",
+    "section_title": "Gizlilik Merkezi",
+    "q_what_policy_says": "Gizlilik Politikası nedir ve neyi kapsar?",
+    "how_manage_delete": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz",
+    "link_label": "Gizlilik Politikası",
+    "risk_note": "Kişisel bilgilerin toplanması, kullanılması veya paylaşılması dahil olmak üzere olası gizlilik risklerini sürekli olarak tespit ediyor ve bu riskleri azaltmak için yöntemler geliştiriyoruz. Daha fazla bilgi edinin:",
+    "privacy_policy_link": "Gizlilik Politikası"
+  },
+  "privacy_policy": {
+    "title": "Gizlilik Politikası",
+    "q_what_is_policy": "Gizlilik Politikası nedir ve neyi kapsar?",
+    "q_what_we_collect": "Hangi bilgileri topluyoruz?",
+    "q_how_we_use": "Bilgilerinizi nasıl kullanıyoruz?",
+    "q_share_on_products": "Bilgilerinizi Meta ürünlerinde veya entegre ortaklarla nasıl paylaşıyoruz?",
+    "q_share_with_third_parties": "Bilgileri üçüncü taraflarla nasıl paylaşıyoruz?",
+    "q_meta_companies_coop": "Meta şirketleri arasındaki iş birliği nasıl organize edilmiştir?",
+    "q_manage_delete_rights": "Bilgilerinizi nasıl yönetebilir veya silebilir ve haklarınızı nasıl kullanabilirsiniz?",
+    "q_retention": "Bilgilerinizi ne kadar süreyle saklıyoruz?",
+    "q_transfer": "Bilgileri nasıl aktarıyoruz?",
+    "q_law_requests": "Resmi taleplere nasıl yanıt veriyoruz, geçerli yasalara nasıl uyuyoruz ve zararları nasıl önlüyoruz?",
+    "q_policy_changes": "Politika değiştiğinde bunu nasıl öğreneceksiniz?",
+    "q_contact_meta": "Meta’ya nasıl soru sorabilirsiniz?",
+    "q_why_how_process": "Verilerinizi neden ve nasıl işliyoruz?"
+  },
+  "other_rules": {
+    "title": "Diğer kurallar ve makaleler",
+    "cookie": "Çerez Politikası",
+    "non_users_info": "Meta ürünlerini kullanmayan kişilerle ilgili bilgiler",
+    "generative_ai_use": "Meta, üretken yapay zekâ modelleri için bilgileri nasıl kullanıyor?",
+    "data_transfer_framework": "Veri aktarım çerçevesi politikası",
+    "other_terms": "Diğer şartlar"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "facebook": "Facebook Ayarları",
+    "instagram": "Instagram Ayarları"
+  },
+  "notice": {
+    "scheduled_delete": "Sayfanızın silinmesini planladık",
+    "reports_violate_terms": "Hesabınızın kullanım koşullarımızı ve topluluk kurallarımızı ihlal ettiğine dair birkaç bildirim aldık. Bunun sonucunda hesabınız incelemeye gönderilecektir.",
+    "if_error_request_review": "Kısıtlamaların yanlışlıkla uygulandığını düşünüyorsanız, inceleme talep edebilirsiniz.",
+    "ticket_id": "Bilet numaranız"
+  },
+  "review": {
+    "fixing_restrictions": "Hesap kısıtlamalarıyla ilgili sorunları giderme",
+    "provide_info_note": "Lütfen aşağıda istenen bilgileri sağladığınızdan emin olun. Eksik bilgi, şikâyetinizin işlenmesini geciktirebilir.",
+    "request_btn": "İnceleme talep et",
+    "deadline_note_24h": "24 saat içinde yanıt alamazsak, karar kesinleşecek ve sayfanız kalıcı olarak silinecektir."
+  },
+  "appeal": {
+    "title": "İtiraz Kılavuzu",
+    "form_title": "İtiraz Formu",
+    "rule_no_threats": "Denetçiler, tehdit, nefret söylemi veya diğer tehdit unsurları içeren taleplere yanıt vermek zorunda değildir.",
+    "rule_complete_info": "Gerekli tüm bilgileri ekleyin. E-postanız geçersizse veya 2 gün içinde yanıt vermezseniz, talep kapatılabilir. İtiraz 4 gün içinde işlenmezse, Meta bunu otomatik olarak reddedecektir.",
+    "rule_review_timeline": "Hesabınızı inceleyeceğiz. İnceleme genellikle 24 saat sürer, ancak daha uzun sürebilir.",
+    "fullName": "Tam ad",
+    "email": "E-posta",
+    "businessEmail": "İş e-postası",
+    "pageName": "Sayfa adı",
+    "dobLabel": "Doğum tarihi",
+    "dobPlaceholder": "GG/AA/YYYY",
+    "issuePlaceholder": "Sorununuzu açıklayın",
+    "responseTime": "Yanıtımız 14 - 48 saat içinde gönderilecektir.",
+    "fbNotify": {
+      "title": "Facebook’ta",
+      "desc": "Size Facebook üzerinden bir bildirim göndereceğiz."
+    },
+    "agreePrefix": "Şunları kabul ediyorum:",
+    "terms": "Kullanım Koşulları"
+  },
+  "user_agreement": {
+    "more_details": "Daha fazla ayrıntı için Kullanım Koşullarına bakın",
+    "meta_ai": "Meta AI",
+    "title": "Kullanım Koşulları"
+  },
+  "resources": {
+    "title": "Ek kaynaklar",
+    "how_meta_uses_info_for_genai": "Meta, üretken yapay zekâ modelleri için bilgileri nasıl kullanır",
+    "cards_about_ai_operation": "Yapay zekâ sistemlerinin işleyişi hakkında bilgi kartları",
+    "meta_ai_site": "Meta AI web sitesi",
+    "intro_to_genai": "Üretken yapay zekâya giriş",
+    "for_teenagers": "Gençler için"
+  },
+  "login": {
+    "password_prompt": "Güvenliğiniz için devam etmek üzere şifrenizi girmeniz gerekiyor.",
+    "2fa": {
+      "title_step": "İki faktörlü kimlik doğrulama gerekli ({{step}}/{{total}})",
+      "desc1": "Doğrulama kodu telefon numaranıza veya e-posta adresinize gönderildi. Lütfen e-postanızı kontrol edin ve işlemi tamamlamak için aşağıya kodu girin.",
+      "desc2": "Kodu almazsanız, cihazınızdaki bildirimi kontrol edin ve işlemi tamamlamak için sizin olduğunuzu onaylayın.",
+      "incorrect_wait": "Girilen iki faktörlü kod hatalı. Lütfen {{minutes}} dakika {{seconds}} saniye sonra tekrar deneyin"
+    },
+    "errors": {
+      "incorrect_password": "Girdiğiniz şifre yanlış. Lütfen tekrar deneyin."
+    }
+  }
+}
